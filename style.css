@@ -6,3 +6,13 @@ background: burlywood;
 body {
   background-image:url(https://images.vice.com/motherboard/content-images/article/no-id/1475144094581877.jpg);
   color: white;}
+
+  li {
+    color:chocolate;
+  }
+  h1 {
+    color: chocolate;
+}
+  h1,li {
+    background: linear-gradient(180deg, #d3a870 0%, #db8c25 100%);
+  }
