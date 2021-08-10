@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Seaweed+Script&display=swap');
+
+body {
+  margin: 0%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.4rem;
+}
+
+h1 {
+  font-family: 'Seaweed Script', cursive;
+}
+
+.header {
+  padding: 5%;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('harry.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  font-size: 3rem;
+}
+
+.page-body {
+  padding: 5%;
+}
